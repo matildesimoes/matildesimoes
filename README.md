@@ -15,8 +15,8 @@ Studying Informatics and Computing Engineering @FEUP.
 
 <section>
   <article>
-    <img height="180px" alt="stats" src="https://github-readme-stats.vercel.app/api?username=matildesimoes&show_icons=true&theme=dracula">
-    <img height="180px" alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matildesimoes&layout=compact&theme=dracula">
+    <img height="180px" alt="stats" src="https://github-readme-stats.vercel.app/api?username=matildesimoes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
+    <img height="180px" alt="stats2" src="https://github-readme-streak-stats.herokuapp.com/?user=matildesimoes&theme=dracula&hide_border=false">
   </article>
   <br>
   <article>

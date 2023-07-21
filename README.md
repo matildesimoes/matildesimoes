@@ -6,7 +6,7 @@ Studying Informatics and Computing Engineering @FEUP.
   <a href="mailto:matilde.simoes012@gmail.com">
     <img alt="Matilde´s gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="www.linkedin.com/in/matilde-simões-91b6b1284">
+  <a href="https://www.linkedin.com/in/matilde-sim%C3%B5es-91b6b1284/">
     <img alt="Matilde´s linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </section>

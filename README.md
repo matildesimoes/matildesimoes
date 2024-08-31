@@ -1,6 +1,6 @@
 ## Matilde Simões
 
-Studying Informatics and Computing Engineering @FEUP.
+Master in Information Security.
 
 <section>
   <a href="mailto:matilde.simoes012@gmail.com">

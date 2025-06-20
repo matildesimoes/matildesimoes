@@ -6,7 +6,7 @@ I am a graduate in Informatics and Computing Engineering from the Faculty of Eng
 
 ---
 
-## 📫 Contacts
+### 📫 Contacts
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:teuemail@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/teuperfil)
@@ -17,14 +17,16 @@ I am a graduate in Informatics and Computing Engineering from the Faculty of Eng
 
 | Projeto | Nota |
 |--------|------|
-| [Applied Cryptography](https://github.com/username/projeto-colaborativo) | 19 |
-| [Análise Forense em Linux com Autómatos e Logs](https://github.com/username/analise-forense-linux) | 18 |
-| [Ataque IND-CPA com Cifrador em Python](https://github.com/username/ataque-indcpa) | 18 |
-| [Infraestrutura Segura em Cloud com Terraform e Ansible](https://github.com/username/iac-seguranca-cloud) | 20 |
-| [Sistema de Leilões com Blockchain P2P](https://github.com/username/leiloes-blockchain-p2p) | 20 |
-| [Applet JavaCard com AES/3DES para Autenticação](https://github.com/username/javacard-autenticacao) | 19 |
-| [Experiência com Credential Stuffing e OAuth 2.0](https://github.com/username/credential-stuffing) | 17 |
-| [Detecção de Fraude com Machine Learning](https://github.com/username/fraude-ml) | 18 |
+| [Applied Cryptography](https://github.com/matildesimoes/Criptografia) | 19 |
+| [Fraud Detection](https://github.com/username/analise-forense-linux) | 18 |
+| [Security Operations](https://github.com/username/ataque-indcpa) | 18 |
+| [Network Security](https://github.com/username/iac-seguranca-cloud) | 20 |
+| [Theory and Practice of Security Attacks](https://github.com/username/leiloes-blockchain-p2p) | 17 |
+| [Systems and Data Security](https://github.com/username/javacard-autenticacao) | 20 |
+| [Security and Applications in Trusted Hardware](https://github.com/username/credential-stuffing) | 17 |
+| [Security in Software Engineering](https://github.com/username/fraude-ml) | 19.5 |
+| [Embedded Systems](https://github.com/username/fraude-ml) | 18 |
+| [Privacy Enhancing Technologies](https://github.com/username/fraude-ml) |  |
 
 ---
 

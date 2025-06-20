@@ -15,11 +15,6 @@ Master in Information Security.
 
 <section>
   <article>
-    <img height="170px" alt="stats" src="https://github-readme-stats.vercel.app/api?username=matildesimoes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-    <img height="170px" alt="stats2" src="https://github-readme-streak-stats.herokuapp.com/?user=matildesimoes&theme=dracula&hide_border=false&include_all_commits=true&count_private=true">
-  </article>
-  <br>
-  <article>
     <img alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
     <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> 

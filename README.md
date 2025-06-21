@@ -15,7 +15,7 @@ I am a graduate in Informatics and Computing Engineering from the Faculty of Eng
 
 ### 📚 MSc in Information Security – Project Portfolio
 
-| Projeto | Nota |
+| Project | Grade |
 |--------|------|
 | [Applied Cryptography](https://github.com/matildesimoes/Criptografia) | 18 |
 | [Fraud Detection](https://github.com/matildesimoes/Fraud-Detection-with-AI) | 19.7 |

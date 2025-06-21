@@ -23,8 +23,8 @@ I am a graduate in Informatics and Computing Engineering from the Faculty of Eng
 | Network Security | 14 |
 | [Theory and Practice of Security Attacks](https://github.com/matildesimoes/tpas) | 17 |
 | [Systems and Data Security](https://github.com/matildesimoes/sistemasdedados) | 20 |
-| [Security and Applications in Trusted Hardware](https://github.com/username/credential-stuffing) | 17 |
-| [Security in Software Engineering](https://github.com/username/fraude-ml) | 19.5 |
+| [Security and Applications in Trusted Hardware](https://github.com/matildesimoes/intel-sgx) | 17 |
+| [Security in Software Engineering](https://github.com/matildesimoes/Software-Security) | 19.5 |
 | [Embedded Systems](https://github.com/matildesimoes/AutomaticLights) | 18 |
 | [Privacy Enhancing Technologies](https://github.com/matildesimoes/privacidade) | 19 |
 

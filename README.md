@@ -17,16 +17,16 @@ I am a graduate in Informatics and Computing Engineering from the Faculty of Eng
 
 | Projeto | Nota |
 |--------|------|
-| [Applied Cryptography](https://github.com/matildesimoes/Criptografia) | 19 |
-| [Fraud Detection](https://github.com/username/analise-forense-linux) | 18 |
+| [Applied Cryptography](https://github.com/matildesimoes/Criptografia) | 18 |
+| [Fraud Detection](https://github.com/matildesimoes/Fraud-Detection-with-AI) | 19.7 |
 | [Security Operations](https://github.com/username/ataque-indcpa) | 18 |
-| [Network Security](https://github.com/username/iac-seguranca-cloud) | 20 |
-| [Theory and Practice of Security Attacks](https://github.com/username/leiloes-blockchain-p2p) | 17 |
-| [Systems and Data Security](https://github.com/username/javacard-autenticacao) | 20 |
+| [Network Security](https://github.com/username/iac-seguranca-cloud) | 14 |
+| [Theory and Practice of Security Attacks](https://github.com/matildesimoes/tpas) | 17 |
+| [Systems and Data Security](https://github.com/matildesimoes/sistemasdedados) | 20 |
 | [Security and Applications in Trusted Hardware](https://github.com/username/credential-stuffing) | 17 |
 | [Security in Software Engineering](https://github.com/username/fraude-ml) | 19.5 |
-| [Embedded Systems](https://github.com/username/fraude-ml) | 18 |
-| [Privacy Enhancing Technologies](https://github.com/username/fraude-ml) |  |
+| [Embedded Systems](https://github.com/matildesimoes/AutomaticLights) | 18 |
+| [Privacy Enhancing Technologies](https://github.com/matildesimoes/privacidade) | 19 |
 
 ---
 
